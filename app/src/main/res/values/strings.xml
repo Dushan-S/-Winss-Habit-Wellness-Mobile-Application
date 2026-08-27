@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_mood">Mood</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Home Fragment -->
+    <string name="welcome_message">Good to see you again!</string>
+    <string name="welcome_message_line2">Glad you\'re here. Small steps, big results.</string>
+    <string name="tasks_completed">Tasks Completed</string>
+    <string name="todays_habits">Today\'s Habits</string>
+    <string name="completed_habits">Completed Habits</string>
+    <string name="current_mood">Current Mood</string>
+    <string name="progress_title">Today\'s Progress</string>
+    <string name="calendar_title">Calendar</string>
+
+    <!-- Habits Fragment -->
+    <string name="add_habit">Add Habit</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="delete_habit">Delete Habit</string>
+    <string name="habit_name">Habit Name</string>
+    <string name="habit_description">Description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_habits">No habits yet. Add your first habit!</string>
+    <string name="mark_complete">Mark Complete</string>
+    <string name="mark_incomplete">Mark Incomplete</string>
+    
+    <!-- Mood Fragment -->
+    <string name="add_mood">Add Mood</string>
+    <string name="mood_note">How are you feeling?</string>
+    <string name="mood_trends">Mood Trends</string>
+    <string name="share_mood">Share Mood</string>
+    <string name="no_mood_entries">No mood entries yet. Log your first mood!</string>
+    <string name="mood_share_text">My mood entries from the last 5 days:\n</string>
+    
+    <!-- Settings Fragment -->
+    <string name="hydration_reminder">Hydration Reminder</string>
+    <string name="reminder_interval">Reminder Interval</string>
+    <string name="minutes">minutes</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="settings_saved">Settings saved successfully!</string>
+    <string name="set_reminder_time">Set Reminder Time</string>
+    <string name="choose_reminder_times">Choose when you want to receive hydration reminders</string>
+    <string name="start_time_label">Start Time:</string>
+    <string name="end_time_label">End Time:</string>
+    <string name="select_start_time">Select Start Time</string>
+    <string name="select_end_time">Select End Time</string>
+    <string name="enable_reminders">Enable Reminders</string>
+    <string name="every_label">Every</string>
+    <string name="interval_default">60</string>
+
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error occurred</string>
+    <string name="ok">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
